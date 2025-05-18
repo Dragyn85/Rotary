@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e655b6f8af91fbd469e8a1be9da3e057, type: 3}
+  m_Name: CreditsList
+  m_EditorClassIdentifier: 
+  Credits:
+  - Type: Music
+    Creator: Alexandr Zhelanov
+    Description: Game music
+    Link: https://soundcloud.com/alexandr-zhelanov
+  - Type: Skybox
+    Creator: Geoff Dallimore
+    Description: skybox
+    Link: https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333
+  - Type: FX
+    Creator: Lana Studio
+    Description: Multiple particles
+    Link: https://assetstore.unity.com/packages/vfx/particles/hyper-casual-fx-200333
